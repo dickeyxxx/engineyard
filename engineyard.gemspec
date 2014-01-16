@@ -43,4 +43,5 @@ Gem::Specification.new do |s|
   s.add_development_dependency('gitable')
   s.add_development_dependency('multi_json')
   s.add_development_dependency('oj')
+  s.add_development_dependency('coveralls')
 end

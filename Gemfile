@@ -12,7 +12,3 @@ group 'engineyard-cloud-client-test' do
   gem 'rabl'
   gem 'activesupport', '< 4.0.0'
 end
-
-group :coverage do
-  gem 'simplecov', :require => false
-end
