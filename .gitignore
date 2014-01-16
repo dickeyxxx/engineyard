@@ -23,6 +23,7 @@ Gemfile.lock
 coverage
 .rvmrc
 *.rbc
+tmp
 
 ## PROJECT::SPECIFIC
 cloud.yml
